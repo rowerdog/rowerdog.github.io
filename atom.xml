@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rowerdog.github.io</id>
-    <title>小张很低调</title>
-    <updated>2021-10-21T09:47:37.104Z</updated>
+    <title>小张的博客</title>
+    <updated>2021-10-21T09:51:02.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://rowerdog.github.io"/>
     <link rel="self" href="https://rowerdog.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://rowerdog.github.io/images/avatar.png</logo>
     <icon>https://rowerdog.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 小张很低调</rights>
+    <rights>All rights reserved 2021, 小张的博客</rights>
     <entry>
         <title type="html"><![CDATA[第一个blog]]></title>
         <id>https://rowerdog.github.io/post/di-yi-ge-blog/</id>
