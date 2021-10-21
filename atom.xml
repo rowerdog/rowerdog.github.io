@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rowerdog.github.io</id>
     <title>Gridea</title>
-    <updated>2021-10-21T04:24:02.576Z</updated>
+    <updated>2021-10-21T05:44:43.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://rowerdog.github.io"/>
     <link rel="self" href="https://rowerdog.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://rowerdog.github.io/images/avatar.png</logo>
     <icon>https://rowerdog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[第一个blog]]></title>
+        <id>https://rowerdog.github.io/post/di-yi-ge-blog/</id>
+        <link href="https://rowerdog.github.io/post/di-yi-ge-blog/">
+        </link>
+        <updated>2021-10-21T05:38:04.000Z</updated>
+        <content type="html"><![CDATA[<p>hello world</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://rowerdog.github.io/post/hello-gridea/</id>
